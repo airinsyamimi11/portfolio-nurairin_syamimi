@@ -10,8 +10,6 @@ A responsive personal portfolio website built using HTML and CSS to showcase my 
 * Technical skills showcase
 * Project portfolio with GitHub and live demo links
 * Experience section
-//* Internship experience section
-//* Certifications section
 * Contact information
 * Downloadable resume
 
@@ -29,11 +27,6 @@ A responsive personal portfolio website built using HTML and CSS to showcase my 
 * Developed a secure web-based feedback management system.
 * Implemented AES encryption to protect sensitive feedback data.
 * Built customer and administrator modules with role-based access control.
-
-//### Blockchain Todo List DApp
-
-//* Developed a decentralized task management application using Ethereum smart contracts.
-//* Integrated MetaMask wallet connectivity and blockchain-based task storage.
 
 ### AES MixColumns Implementation (C++)
 
