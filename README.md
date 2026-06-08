@@ -51,7 +51,7 @@ LinkedIn:
 https://linkedin.com/in/nurairin-syamimi
 
 GitHub:
-https://github.com/airinesyamimi11
+https://github.com/airinsyamimi11
 ## Author
 
 Nurairin Syamimi Binti Mohammad Noor Muharrim
